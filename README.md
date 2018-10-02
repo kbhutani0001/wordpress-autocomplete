@@ -1,6 +1,9 @@
 # WordPress AutoComplete
 ==================
 
+Wordpress AutoComplete helps in syntax and functionn completions for your wordpress code. 
+
+
 ##### Gif Preview
 ![wordpress-autocomplete](http://i.imgur.com/HFtXHwz.gif)
 
